@@ -26,7 +26,7 @@ public class Main {
 		product3.setUnitInStock(3);
 		product3.setImageUrl("image3.img");
 
-		// products dizisine ürünler eklendi
+		// Products sınıfıda oluşturulan products dizi nesnesine ürünler eklendi
 		Product[] products = { product1, product2, product3 };
 
 		// products dizisinin içinde product ismi ile dön
